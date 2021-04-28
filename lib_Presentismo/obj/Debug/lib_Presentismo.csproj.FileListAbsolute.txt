@@ -1,0 +1,5 @@
+D:\Github\CAI-2021-1C\parcial1\lib_Presentismo\bin\Debug\lib_Presentismo.dll
+D:\Github\CAI-2021-1C\parcial1\lib_Presentismo\bin\Debug\lib_Presentismo.pdb
+D:\Github\CAI-2021-1C\parcial1\lib_Presentismo\obj\Debug\lib_Presentismo.csproj.CoreCompileInputs.cache
+D:\Github\CAI-2021-1C\parcial1\lib_Presentismo\obj\Debug\lib_Presentismo.dll
+D:\Github\CAI-2021-1C\parcial1\lib_Presentismo\obj\Debug\lib_Presentismo.pdb

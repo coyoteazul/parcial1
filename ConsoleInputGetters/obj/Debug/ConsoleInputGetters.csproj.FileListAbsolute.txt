@@ -1,0 +1,6 @@
+D:\Github\CAI-2021-1C\ConsoleInputGetters\bin\Debug\ConsoleInputGetters.dll
+D:\Github\CAI-2021-1C\ConsoleInputGetters\bin\Debug\ConsoleInputGetters.pdb
+D:\Github\CAI-2021-1C\ConsoleInputGetters\obj\Debug\ConsoleInputGetters.csprojAssemblyReference.cache
+D:\Github\CAI-2021-1C\ConsoleInputGetters\obj\Debug\ConsoleInputGetters.csproj.CoreCompileInputs.cache
+D:\Github\CAI-2021-1C\ConsoleInputGetters\obj\Debug\ConsoleInputGetters.dll
+D:\Github\CAI-2021-1C\ConsoleInputGetters\obj\Debug\ConsoleInputGetters.pdb

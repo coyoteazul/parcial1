@@ -1,0 +1,12 @@
+D:\Github\CAI-2021-1C\parcial1\Parcial1.Ruiz.sistema_de_presentismo\bin\Debug\Parcial1.Ruiz.sistema_de_presentismo.exe.config
+D:\Github\CAI-2021-1C\parcial1\Parcial1.Ruiz.sistema_de_presentismo\bin\Debug\Parcial1.Ruiz.sistema_de_presentismo.exe
+D:\Github\CAI-2021-1C\parcial1\Parcial1.Ruiz.sistema_de_presentismo\bin\Debug\Parcial1.Ruiz.sistema_de_presentismo.pdb
+D:\Github\CAI-2021-1C\parcial1\Parcial1.Ruiz.sistema_de_presentismo\bin\Debug\ConsoleInputGetters.dll
+D:\Github\CAI-2021-1C\parcial1\Parcial1.Ruiz.sistema_de_presentismo\bin\Debug\lib_Presentismo.dll
+D:\Github\CAI-2021-1C\parcial1\Parcial1.Ruiz.sistema_de_presentismo\bin\Debug\ConsoleInputGetters.pdb
+D:\Github\CAI-2021-1C\parcial1\Parcial1.Ruiz.sistema_de_presentismo\bin\Debug\lib_Presentismo.pdb
+D:\Github\CAI-2021-1C\parcial1\Parcial1.Ruiz.sistema_de_presentismo\obj\Debug\Parcial1.Ruiz.sistema_de_presentismo.csprojAssemblyReference.cache
+D:\Github\CAI-2021-1C\parcial1\Parcial1.Ruiz.sistema_de_presentismo\obj\Debug\Parcial1.Ruiz.sistema_de_presentismo.csproj.CoreCompileInputs.cache
+D:\Github\CAI-2021-1C\parcial1\Parcial1.Ruiz.sistema_de_presentismo\obj\Debug\Parcial1.Ruiz.sistema_de_presentismo.csproj.CopyComplete
+D:\Github\CAI-2021-1C\parcial1\Parcial1.Ruiz.sistema_de_presentismo\obj\Debug\Parcial1.Ruiz.sistema_de_presentismo.exe
+D:\Github\CAI-2021-1C\parcial1\Parcial1.Ruiz.sistema_de_presentismo\obj\Debug\Parcial1.Ruiz.sistema_de_presentismo.pdb
